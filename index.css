@@ -1,4 +1,5 @@
- .u-section-1 {
+
+.u-section-1 {
   background-image: url("images/IMG_20240815_103959129_MFNR2.jpg");
   background-position: 50% 50%;
 }
@@ -1366,6 +1367,36 @@
     margin-left: initial;
     width: auto;
   }
+  
+
+
+}
+
+.u-section-7-3 {
+ background-image: none;
+}
+
+.u-section-7-3 .u-sheet-1 {
+ min-height: 750px;
+}
+
+.u-section-7-3 .u-custom-html-1 {
+ height: auto;
+ min-height: 508px;
+ width: 800px;
+ margin: 69px auto 60px;
+}
+
+@media (max-width: 991px) {
+ .u-section-7-3 .u-custom-html-1 {
+   margin-top: 68px;
+   margin-right: initial;
+   margin-left: initial;
+   width: auto;
+ }
+
+
+
 } .u-section-8 {
   background-image: none;
 }
